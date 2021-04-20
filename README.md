@@ -11,6 +11,11 @@ ABC[space][space][enter]DE
 ABC  
 DE
 
+## SOURCE CODE
+[space][space][space][space]X = X + Y;
+
+    X = X + Y;
+
 ## EMPHASIS
     *italic text*
     _italic text_
