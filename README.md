@@ -6,7 +6,9 @@
     ##### <h5> tag
     
 ## CARRIAGE RETURN
-ABC space space enter
+ABC[space][space][enter]DE
+
+ABC  
 DE
 
 ## EMPHASIS
