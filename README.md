@@ -24,6 +24,14 @@ DE
     *italic **bold** text*
     <del>cancel</del>
  
+ *italic text*  
+_italic text_  
+**bold text**  
+__bold text__  
+*italic **bold** text*  
+<del>cancel</del>  
+
+ 
 ## BLOCKQUOTES
     As Grace Hopper said:
     > I’ve always been more interested   
