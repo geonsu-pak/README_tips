@@ -5,7 +5,7 @@
     ## <h2> tag
     ##### <h5> tag
     
-## CARRIAGE RETURN
+## NEW LINE
 ABC[space][space][enter]DE
 
 ABC  
